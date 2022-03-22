@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ferturim
+- 👀 I’m interested in Java and Web development.
+- 🌱 I’m currently learning Android and Node.js.
+- 💞️ I’m looking to collaborate on all the community.
+- 📫 How to reach me @fernandomt on Instagram.
